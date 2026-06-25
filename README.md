@@ -4,8 +4,7 @@
 
 ## متطلبات النظام
 - Python 3.10+
-- Ollama
-- (اختياري) Groq API Key
+- Groq API Key
 
 ## التثبيت والتشغيل السريع
 راجع ملف `smart_admin_assistant_project.md` لمزيد من التفاصيل حول الخطة وسير العمل.
