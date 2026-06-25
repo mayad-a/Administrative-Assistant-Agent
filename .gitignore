@@ -1,0 +1,71 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ===========================
+# Virtual Environment
+# ===========================
+venv/
+.venv/
+env/
+
+# ===========================
+# Environment Variables
+# ===========================
+.env
+
+# ===========================
+# Data & Vector Store
+# ===========================
+data/raw_web/
+data/structured/
+vector_store/
+
+# ===========================
+# Model Weights & Cache
+# ===========================
+*.bin
+*.safetensors
+*.gguf
+*.onnx
+.cache/
+models/
+
+# ===========================
+# Logs (runtime)
+# ===========================
+logs/*.jsonl
+logs/*.log
+
+# ===========================
+# IDE & Editor
+# ===========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ===========================
+# OS Files
+# ===========================
+desktop.ini
+ehthumbs.db
+
+# ===========================
+# Jupyter (if used)
+# ===========================
+.ipynb_checkpoints/
+
+# ===========================
+# Distribution / Packaging
+# ===========================
+dist/
+build/
+*.egg-info/

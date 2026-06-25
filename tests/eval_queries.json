@@ -1,0 +1,52 @@
+[
+  {
+    "question": "ما هي رسالة كلية الحاسبات والذكاء الاصطناعي؟",
+    "expected_keywords": ["رسالة", "الحاسبات", "سوق العمل", "المجتمع"],
+    "expected_fallback": false
+  },
+  {
+    "question": "من هو عميد كلية الحاسبات؟",
+    "expected_keywords": ["عميد"],
+    "expected_fallback": false
+  },
+  {
+    "question": "ما هي المصروفات الدراسية للكلية؟",
+    "expected_keywords": ["مصروفات", "دراسية"],
+    "expected_fallback": false
+  },
+  {
+    "question": "كيف يمكنني الاشتراك في الكلية؟",
+    "expected_keywords": ["اشتراك", "تسجيل"],
+    "expected_fallback": false
+  },
+  {
+    "question": "أين يقع مقر الكلية؟",
+    "expected_keywords": ["مقر", "عنوان"],
+    "expected_fallback": false
+  },
+  {
+    "question": "نتيجة مباراة مصر والكاميرون اليوم؟",
+    "expected_keywords": [],
+    "expected_fallback": true
+  },
+  {
+    "question": "من هو عميد كلية الطب؟",
+    "expected_keywords": [],
+    "expected_fallback": true
+  },
+  {
+    "question": "كم سعر تذكرة الطيران إلى دبي؟",
+    "expected_keywords": [],
+    "expected_fallback": true
+  },
+  {
+    "question": "هل يوجد سكن للطلاب؟",
+    "expected_keywords": ["سكن", "مدينة جامعية"],
+    "expected_fallback": false
+  },
+  {
+    "question": "ما هي شروط القبول بالكلية؟",
+    "expected_keywords": ["شروط", "قبول", "مجموع"],
+    "expected_fallback": false
+  }
+]
